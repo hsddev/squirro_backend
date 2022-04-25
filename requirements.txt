@@ -1,0 +1,2 @@
+- Install requests module to send HTTP requests.
+- Install pprint module to customize the formatting of your output.
